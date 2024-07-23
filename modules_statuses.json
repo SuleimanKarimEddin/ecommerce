@@ -1,0 +1,9 @@
+{
+    "Auth": true,
+    "Test": true,
+    "Base": true,
+    "Order": true,
+    "Product": true,
+    "Payment": true,
+    "Reports": true
+}
